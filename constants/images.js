@@ -1,4 +1,4 @@
-const profile = require("../assets/images/profile.png")
+const profile = require("../assets/images/delivery.png")
 
 export default {
     profile,
